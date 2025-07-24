@@ -1,0 +1,13 @@
+[
+   {
+  "item_name": "phone"
+}, {
+  "item_name": "monitor"
+}, {
+  "item_name": "mouse"
+}, {
+  "item_name": "keyboard"
+}, {
+  "item_name": "tablet"
+}
+]
