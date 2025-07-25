@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
   res.send("Hello, world!");
 });
 
-app.post("/data", (req, res) => {
+app.post("/login", (req, res) => {
   const { userMail, userPass } = req.body;
 
   const recievedData = {
